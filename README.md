@@ -5,7 +5,7 @@ I'm in Japan and I'm in middle school.
 <img src="https://skillicons.dev/icons/?i=js,npm,html,nodejs,discord,bots,discordjs,md,github,git,vscode">  
 
 ## NOW TRAINING
-<img src="https://skillicons.dev/icons/?i=css,cs,net,mysql,php,react">
+<img src="https://skillicons.dev/icons/?i=css,cs,net,mysql,php,react,unity,unreal">
 
 ## MY STATUS
 ![KS's Stats](https://github-readme-stats.vercel.app/api?username=Ks-777&show_icons=true&theme=dark)  
