@@ -10,7 +10,7 @@ I'm in Japan and I'm in middle school.
 ## MY STATUS
 ![KS's Stats](https://github-readme-stats.vercel.app/api?username=Ks-777&show_icons=true&theme=dark)  
 
-[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=Ks-777&repo=ShibakenBot)](https://github.com/anuraghazra/ShibakenBot) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ks-777&layout=compact)  
+[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=Ks-777&repo=ShibakenBot)](https://github.com/Ks-777/ShibakenBot) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ks-777&layout=compact)  
 <br><br><br>
 
 <div align="center">
