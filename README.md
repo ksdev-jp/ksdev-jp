@@ -1,14 +1,9 @@
 # Hello, I'm KS! 👋
-I'm Discord.js and WEB programmer.  
-I'm in Japan and I'm in middle school.
-## MY SKILLS
-<img src="https://skillicons.dev/icons/?i=js,npm,html,nodejs,discord,bots,discordjs,md,github,git,vscode">  
+I'm in Japan and I'm in middle school.  
+LOVE TYPESCRIPT💖
+## MY SKILLS  
+<img src="https://skillicons.dev/icons/?i=js,ts,react,nextjs,tailwind,prisma,bun,docker&perline=4">
 
-## NOW TRAINING
-<img src="https://skillicons.dev/icons/?i=css,cs,net,react,nextjs,unreal">
-
-## MY STATUS
-![KS's Stats](https://github-readme-stats.vercel.app/api?username=ksdev-jp&show_icons=true&theme=dark)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksdev-jp&layout=compact)  
+## NOW TRAINING  
+<img src="https://skillicons.dev/icons/?i=c,cs,cpp,linux,java,kotlin,kubernetes,nginx&perline=4">  
 <br><br><br>
